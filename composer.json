@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gitonomy/gitlib": "^1.0",
+        "composer/semver": "^1.2"
+    }
+}
