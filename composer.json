@@ -1,4 +1,7 @@
 {
+    "name": "webflo/drupal-core-strict",
+    "description": "Locked Drupal core dependencies",
+    "license": "GPL-2.0+",
     "require": {
         "gitonomy/gitlib": "^1.0",
         "composer/semver": "^1.2"
