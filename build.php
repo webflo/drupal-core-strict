@@ -21,7 +21,7 @@ $tags = [];
 $repository = new Repository('tmp/drupal');
 $repository->run('fetch');
 
-$metapackage_repository = new Repository('tmp/build');
+$metapackage_repository = new Repository('tmp/metapackage');
 
 $branches = array_filter($repository->getReferences()->getRemoteBranches(), function (Branch $branch) {
   if ($branch->isRemote() && preg_match('/^origin\/8\./', $branch->getName(), $matches)) {
