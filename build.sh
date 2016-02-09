@@ -10,3 +10,6 @@ if [ ! -d "tmp/metapackage" ]; then
 fi
 
 php build.php
+cd tmp/metapackage
+git push --all origin
+git push --tags origin

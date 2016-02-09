@@ -59,6 +59,3 @@ foreach ($sorted as $version) {
     $dump->write();
   }
 }
-
-$metapackage_repository->run('push', ['--all', 'origin']);
-$metapackage_repository->run('push', ['--tags', 'origin']);
