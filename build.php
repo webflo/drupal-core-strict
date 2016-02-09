@@ -22,6 +22,8 @@ $repository = new Repository('tmp/drupal');
 $repository->run('fetch');
 
 $metapackage_repository = new Repository('tmp/metapackage');
+$metapackage_repository->run('config', ['user.name', 'Florian Weber (via CircleCI)']);
+$metapackage_repository->run('config', ['user.email', 'florian@webflo.org']);
 
 $branches = array_filter($repository->getReferences()->getRemoteBranches(), function (Branch $branch) {
   if ($branch->isRemote() && preg_match('/^origin\/8\./', $branch->getName(), $matches)) {
@@ -53,8 +55,7 @@ foreach ($sorted as $version) {
   $path = $repository->getPath() . '/composer.lock';
   if (file_exists($path)) {
     $packageBuilder = PackageBuilder::fromLockfile($path);
-    $dump = new Dumper($ref, $packageBuilder->buildPackage(),
-      $metapackage_repository);
+    $dump = new Dumper($ref, $packageBuilder->buildPackage(), $metapackage_repository);
     $dump->write();
   }
 }
