@@ -6,7 +6,7 @@ if [ ! -d "tmp/drupal" ]; then
 fi
 
 if [ ! -d "tmp/metapackage" ]; then
-  git clone --branch master https://github.com/webflo/drupal-core-strict tmp/metapackage
+  git clone --branch master https://github.com/webflo/drupal-core-strict.git tmp/metapackage
 fi
 
 php build.php
