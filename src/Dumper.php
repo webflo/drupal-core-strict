@@ -50,6 +50,8 @@ class Dumper {
   public function write() {
     $this->getBranch($this->reference);
     $wc = $this->repository->getWorkingCopy();
+    $wc->checkout($this->branch);
+    /*
     if (!$this->repository->getReferences()->hasBranch($this->branch)) {
       $this->repository->run('checkout', ['--orphan', $this->branch]);
       $this->repository->run('rm', ['-rf', '.']);
@@ -57,6 +59,7 @@ class Dumper {
     else {
       $wc->checkout($this->branch);
     }
+    */
 
     // Tag already exists.
     if (isset($this->tag) && $this->repository->getReferences()->hasTag($this->tag->getName())) {
