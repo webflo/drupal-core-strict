@@ -50,7 +50,7 @@
         "behat/mink-goutte-driver": "v1.2.0",
         "doctrine/instantiator": "1.0.5",
         "fabpot/goutte": "v3.1.1",
-        "jcalderonzumba/gastonjs": "dev-master#5e231b4df98275c404e1371fc5fadd34f6a121ad",
+        "jcalderonzumba/gastonjs": "v1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "v0.3.1",
         "mikey179/vfsStream": "v1.6.0",
         "phpdocumentor/reflection-docblock": "2.0.4",
