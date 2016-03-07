@@ -31,6 +31,7 @@
         "symfony/event-dispatcher": "v2.8.2",
         "symfony/http-foundation": "v2.8.2",
         "symfony/http-kernel": "v2.8.2",
+        "symfony/polyfill-iconv": "v1.1.0",
         "symfony/polyfill-mbstring": "v1.1.0",
         "symfony/polyfill-php54": "v1.1.0",
         "symfony/polyfill-php55": "v1.1.0",
