@@ -52,11 +52,11 @@
         "zendframework/zend-stdlib": "2.7.3"
     },
     "require-dev": {
-        "behat/mink": "v1.7.0",
-        "behat/mink-browserkit-driver": "v1.3.0",
-        "behat/mink-goutte-driver": "v1.2.0",
+        "behat/mink": "v1.7.1",
+        "behat/mink-browserkit-driver": "v1.3.2",
+        "behat/mink-goutte-driver": "v1.2.1",
         "doctrine/instantiator": "1.0.5",
-        "fabpot/goutte": "v3.1.1",
+        "fabpot/goutte": "v3.1.2",
         "jcalderonzumba/gastonjs": "v1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "v0.3.1",
         "mikey179/vfsStream": "v1.6.0",
