@@ -29,6 +29,7 @@
         "symfony/console": "v2.8.4",
         "symfony/debug": "v2.7.6",
         "symfony/dependency-injection": "v2.8.4",
+        "symfony/dom-crawler": "v2.8.13",
         "symfony/event-dispatcher": "v2.8.4",
         "symfony/http-foundation": "v2.8.4",
         "symfony/http-kernel": "v2.8.4",
@@ -53,7 +54,7 @@
         "zendframework/zend-stdlib": "2.7.3"
     },
     "require-dev": {
-        "behat/mink": "v1.7.1",
+        "behat/mink": "dev-master#12e09bf56d4892998518eff6e9be897ba23b7dc1",
         "behat/mink-browserkit-driver": "v1.3.2",
         "behat/mink-goutte-driver": "v1.2.1",
         "doctrine/instantiator": "1.0.5",
@@ -78,7 +79,6 @@
         "sebastian/recursion-context": "1.0.1",
         "sebastian/version": "1.0.6",
         "symfony/browser-kit": "v2.7.6",
-        "symfony/css-selector": "v2.8.4",
-        "symfony/dom-crawler": "v2.7.6"
+        "symfony/css-selector": "v2.8.4"
     }
 }
