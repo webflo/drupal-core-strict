@@ -78,7 +78,7 @@
         "sebastian/global-state": "1.0.0",
         "sebastian/recursion-context": "1.0.1",
         "sebastian/version": "1.0.6",
-        "symfony/browser-kit": "v3.2.2",
+        "symfony/browser-kit": "v2.8.16",
         "symfony/css-selector": "v2.8.16"
     }
 }
