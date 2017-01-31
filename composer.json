@@ -58,6 +58,7 @@
         "behat/mink-browserkit-driver": "v1.3.2",
         "behat/mink-goutte-driver": "v1.2.1",
         "doctrine/instantiator": "1.0.5",
+        "drupal/coder": "8.2.8",
         "fabpot/goutte": "v3.1.2",
         "jcalderonzumba/gastonjs": "v1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "v0.3.1",
@@ -78,6 +79,7 @@
         "sebastian/global-state": "1.0.0",
         "sebastian/recursion-context": "1.0.1",
         "sebastian/version": "1.0.6",
+        "squizlabs/php_codesniffer": "2.7.1",
         "symfony/browser-kit": "v2.8.16",
         "symfony/css-selector": "v2.8.16"
     }
