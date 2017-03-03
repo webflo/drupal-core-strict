@@ -79,7 +79,7 @@
         "sebastian/global-state": "1.0.0",
         "sebastian/recursion-context": "1.0.1",
         "sebastian/version": "1.0.6",
-        "squizlabs/php_codesniffer": "2.7.1",
+        "squizlabs/php_codesniffer": "2.8.1",
         "symfony/browser-kit": "v2.8.16",
         "symfony/css-selector": "v2.8.16"
     }
