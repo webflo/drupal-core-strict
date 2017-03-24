@@ -29,7 +29,6 @@
         "symfony/console": "v2.8.18",
         "symfony/debug": "v2.8.18",
         "symfony/dependency-injection": "v2.8.18",
-        "symfony/dom-crawler": "v2.8.18",
         "symfony/event-dispatcher": "v2.8.18",
         "symfony/http-foundation": "v2.8.18",
         "symfony/http-kernel": "v2.8.18",
@@ -81,6 +80,7 @@
         "sebastian/version": "1.0.6",
         "squizlabs/php_codesniffer": "2.8.1",
         "symfony/browser-kit": "v2.8.18",
-        "symfony/css-selector": "v2.8.18"
+        "symfony/css-selector": "v2.8.18",
+        "symfony/dom-crawler": "v2.8.18"
     }
 }
