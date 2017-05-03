@@ -77,6 +77,7 @@
         "squizlabs/php_codesniffer": "2.8.1",
         "symfony/browser-kit": "v3.2.7",
         "symfony/css-selector": "v3.2.6",
-        "symfony/dom-crawler": "v3.2.7"
+        "symfony/dom-crawler": "v3.2.7",
+        "symfony/phpunit-bridge": "v3.2.8"
     }
 }
