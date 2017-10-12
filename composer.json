@@ -40,7 +40,7 @@
         "symfony/translation": "v3.2.8",
         "symfony/validator": "v3.2.8",
         "symfony/yaml": "v3.2.8",
-        "twig/twig": "v1.32.0",
+        "twig/twig": "v1.35.0",
         "wikimedia/composer-merge-plugin": "v1.4.1",
         "zendframework/zend-diactoros": "1.4.1",
         "zendframework/zend-escaper": "2.5.2",
