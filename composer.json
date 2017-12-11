@@ -56,7 +56,7 @@
         "fabpot/goutte": "v3.2.1",
         "ircmaxell/password-compat": "v1.0.4",
         "jcalderonzumba/gastonjs": "v1.0.2",
-        "jcalderonzumba/mink-phantomjs-driver": "v0.3.1",
+        "jcalderonzumba/mink-phantomjs-driver": "v0.3.2",
         "mikey179/vfsStream": "v1.6.5",
         "phpdocumentor/reflection-docblock": "2.0.4",
         "phpspec/prophecy": "v1.7.0",
