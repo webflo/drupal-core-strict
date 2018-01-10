@@ -78,6 +78,6 @@
         "symfony/browser-kit": "v3.2.8",
         "symfony/css-selector": "v3.2.8",
         "symfony/dom-crawler": "v3.2.8",
-        "symfony/phpunit-bridge": "v3.4.0-BETA2"
+        "symfony/phpunit-bridge": "v3.4.3"
     }
 }
