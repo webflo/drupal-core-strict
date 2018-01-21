@@ -17,7 +17,7 @@ class PackageBuilder {
       'name' => 'webflo/drupal-core-strict',
       'type' => 'metapackage',
       'description' => 'Locked core dependencies',
-      'license' => 'GPL-2.0+',
+      'license' => 'GPL-2.0-or-later',
     ];
   }
 
