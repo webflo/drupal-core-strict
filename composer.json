@@ -53,7 +53,7 @@
         "behat/mink": "dev-master#9ea1cebe3dc529ba3861d87c818f045362c40484",
         "behat/mink-browserkit-driver": "v1.3.2",
         "behat/mink-goutte-driver": "v1.2.1",
-        "behat/mink-selenium2-driver": "v1.3.1",
+        "behat/mink-selenium2-driver": "dev-master#93474c65a2a7bf959200ab5f7a14cc450645c185",
         "doctrine/instantiator": "1.0.5",
         "drupal/coder": "8.2.12",
         "fabpot/goutte": "v3.2.1",
