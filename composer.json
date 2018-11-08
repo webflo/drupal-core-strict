@@ -14,7 +14,7 @@
         "doctrine/inflector": "v1.1.0",
         "doctrine/lexer": "v1.0.1",
         "easyrdf/easyrdf": "0.9.1",
-        "egulias/email-validator": "1.2.14",
+        "egulias/email-validator": "2.1.6",
         "guzzlehttp/guzzle": "6.3.3",
         "guzzlehttp/promises": "v1.3.1",
         "guzzlehttp/psr7": "1.4.2",
