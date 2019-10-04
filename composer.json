@@ -104,8 +104,9 @@
         "symfony/browser-kit": "v3.4.26",
         "symfony/css-selector": "v3.4.26",
         "symfony/dom-crawler": "v3.4.26",
-        "symfony/filesystem": "v3.4.28",
-        "symfony/finder": "v3.4.28",
+        "symfony/filesystem": "v3.4.31",
+        "symfony/finder": "v3.4.31",
+        "symfony/lock": "v3.4.31",
         "symfony/phpunit-bridge": "v3.4.26",
         "theseer/tokenizer": "1.1.2"
     }
