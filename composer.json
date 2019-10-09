@@ -101,7 +101,7 @@
         "seld/jsonlint": "1.7.1",
         "seld/phar-utils": "1.0.1",
         "squizlabs/php_codesniffer": "3.4.2",
-        "symfony/browser-kit": "v3.4.26",
+        "symfony/browser-kit": "v3.4.32",
         "symfony/css-selector": "v3.4.26",
         "symfony/dom-crawler": "v3.4.26",
         "symfony/filesystem": "v3.4.31",
