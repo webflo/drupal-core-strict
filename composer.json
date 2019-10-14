@@ -15,6 +15,7 @@
         "doctrine/inflector": "v1.2.0",
         "doctrine/lexer": "1.0.2",
         "drupal/core": "8.9.x-dev",
+        "drupal/core-vendor-hardening": "8.9.x-dev",
         "easyrdf/easyrdf": "0.9.1",
         "egulias/email-validator": "2.1.11",
         "guzzlehttp/guzzle": "6.3.3",
