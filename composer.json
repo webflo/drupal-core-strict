@@ -5,7 +5,6 @@
     "license": "GPL-2.0-or-later",
     "require": {
         "asm89/stack-cors": "1.2.0",
-        "brumann/polyfill-unserialize": "v1.0.4",
         "composer/installers": "v1.7.0",
         "composer/semver": "1.5.0",
         "doctrine/annotations": "v1.4.0",
@@ -52,7 +51,7 @@
         "symfony/validator": "v3.4.32",
         "symfony/yaml": "v3.4.32",
         "twig/twig": "v1.42.3",
-        "typo3/phar-stream-wrapper": "v2.1.2",
+        "typo3/phar-stream-wrapper": "v3.1.2",
         "wikimedia/composer-merge-plugin": "v1.4.1",
         "zendframework/zend-diactoros": "1.7.2",
         "zendframework/zend-escaper": "2.6.1",
