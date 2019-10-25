@@ -62,7 +62,7 @@
         "behat/mink": "dev-master#a534fe7dac9525e8e10ca68e737c3d7e5058ec83",
         "behat/mink-browserkit-driver": "1.3.3",
         "behat/mink-goutte-driver": "v1.2.1",
-        "behat/mink-selenium2-driver": "dev-master#8684ee4e634db7abda9039ea53545f86fc1e105a",
+        "behat/mink-selenium2-driver": "1.3.x-dev",
         "composer/ca-bundle": "1.2.4",
         "composer/composer": "1.9.0",
         "composer/spdx-licenses": "1.5.2",
