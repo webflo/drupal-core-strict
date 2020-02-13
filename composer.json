@@ -60,7 +60,7 @@
         "fabpot/goutte": "v3.1.2",
         "jcalderonzumba/gastonjs": "v1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "v0.3.1",
-        "mikey179/vfsStream": "v1.6.0",
+        "mikey179/vfsstream": "v1.6.0",
         "phpdocumentor/reflection-docblock": "2.0.4",
         "phpspec/prophecy": "v1.5.0",
         "phpunit/php-code-coverage": "2.2.4",
